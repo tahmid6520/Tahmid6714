@@ -1,0 +1,6 @@
+{
+  "name": "Tech Medha",
+  "description": "Offline-first smartphone database, tech news, reviews, comparisons, buying guides, and tech tools in Bengali and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
